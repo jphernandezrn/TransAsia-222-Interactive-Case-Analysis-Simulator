@@ -58,4 +58,4 @@ Finally, use the **seat-specific outcome image** and **report summary** below to
 Because the simulator is packaged as a standalone HTML file, the fastest setup is simply opening:
 
 ```bash
-https://github.com/jphernandezrn/TransAsia-222-Interactive-Case-Analysis-Simulator.git
+FINAL_Interactive Simulation_TransAsia 222_Dr. Hernandez_03.29.2026.html
