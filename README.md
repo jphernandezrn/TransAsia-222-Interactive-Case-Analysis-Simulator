@@ -48,14 +48,3 @@ To use the simulator, begin with the **influence network** on the left to identi
 Next, review the **warning monitor** and **timeline feed** on the right to track how risk signals and event progression align with the filtered network.
 
 Finally, use the **seat-specific outcome image** and **report summary** below to connect the visual analytics to the aviation mishap.
-
----
-
-## Installation
-
-### Option 1: Open directly
-
-Because the simulator is packaged as a standalone HTML file, the fastest setup is simply opening:
-
-```bash
-FINAL_Interactive Simulation_TransAsia 222_Dr. Hernandez_03.29.2026.html
